@@ -1,0 +1,20 @@
+﻿{
+  "id": "2026-06-14_vs_marmoleria",
+  "fecha": "2026-06-14",
+  "rival": "Marmolería",
+  "rival_escudo": "MARMOLERIA.png",
+  "rival_color": "#22c55e",
+  "resultado_local": 3,
+  "resultado_visitante": 1,
+  "torneo": "ACFS 2026",
+  "sede": "Hércules",
+  "condicion": "local",
+  "segmentos": [
+    {"id": "1T — Inicio a TM Olimpia",  "label": "Seg1 · 1T Inicio",   "tiempo": "1T"},
+    {"id": "1T — TM Olimpia a Fin 1T",  "label": "Seg2 · 1T post-TM",  "tiempo": "1T"},
+    {"id": "2T — Inicio a TM Olimpia",  "label": "Seg3 · 2T Inicio",   "tiempo": "2T"},
+    {"id": "2T — TM Olimpia a Fin 2T",  "label": "Seg4 · 2T post-TM",  "tiempo": "2T"}
+  ],
+  "csv": "partido_completo.csv",
+  "json_app": "partido_Marmoleria_REAL_2026-06-14.json"
+}

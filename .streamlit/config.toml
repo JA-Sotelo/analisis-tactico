@@ -1,0 +1,21 @@
+[theme]
+# ─── PALETA PRINCIPAL ────────────────────────────────────────────────
+# Modificar estos 5 valores según el logo del cliente.
+# primaryColor      → color de botones, sliders, checkboxes
+# backgroundColor   → fondo principal
+# secondaryBackgroundColor → fondo sidebar y cards
+# textColor         → texto principal
+# font              → "sans serif" | "serif" | "monospace"
+
+primaryColor        = "#1A6EBF"   # Azul corporativo (adaptar)
+backgroundColor     = "#F5F7FA"   # Gris muy claro (casi blanco)
+secondaryBackgroundColor = "#FFFFFF"
+textColor           = "#1C2333"
+font                = "sans serif"
+
+[server]
+headless = true
+enableCORS = false
+
+[browser]
+gatherUsageStats = false
